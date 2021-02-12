@@ -1,1 +1,1 @@
-# fundamental-machine-learning
+# Implementions of Machine Learning algorithms from scratch
