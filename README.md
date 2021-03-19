@@ -1,1 +1,1 @@
-# Implementions of Machine Learning algorithms from scratch
+# My personal implementions of popular algorithms and Machine Learning techniques
